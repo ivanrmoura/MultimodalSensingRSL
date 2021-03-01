@@ -1,0 +1,36 @@
+ref;ano;estado_mental;comportamentos;tipo_estudo;participante;tipo_participante;quant_participante;duracao;tipo_dispositivo
+Narziev et al.;2020;['Depression'];['Physical activity','Sleep','Sociability','Mood'];['Classification'];general public;nonclinical;20;28;smartphone and wearable device
+Haines-Delmont et al.;2020;['Suicidal Ideation'];['Sociability', 'Physical activity','Sleep'];['Classification'];patients;clinical;86;7;smartphone and wearable device
+Wang et al.;2017;['Schizophrenia'];['Physical activity','Sleep','Sociability','Mobility,'Device usage,'Environment'];['Prediction'];patients with Schizophrenia;clinical;36;360;smartphone
+Demasi et al.;2016;['Depression'];['Physical activity','Sleep'];['Prediction','Association'];student;nonclinical;44;56;smartphone
+Farhan et al.;2016;['Depression'];['Physical activity','Device usage','Environment','Sociability','Mobility'];['Classification'];student;nonclinical;48;70;smartphone
+Harari et al.;2017;['Well-being'];['Physical activity','Sociability'];['Detection'];student;nonclinical;48;70;smartphone
+Cai et al.;2020;['Mood','Depression','Anxiety'];['Physical activity','Mobility'];['Association'];patients with Breast cancer;clinical;7;49;smartphone
+Dogrucu et al.;2020;['Depression','Suicidal Ideation'];['Sociability','Mobilty','Vocal cues'];['Classification'];general public;nonclinical;335;14;smartphone
+Wahle et al.;2016;['Depression'];['Physical activity','Mobility','Sociability','Device usage'];['Classification'];general public;nonclinical;126;28;smartphone
+Sarda et al.;2019;['Depression'];['Physical activity','Mobility','Sociability','Sleep'];['Classification'];patients with Diabetes;clinical;47;140;smartphone
+Sano et al.;2018;['Stress','Well-being'];['Sleep','Sociability','Device usage','Mobility'];['Classification'];student;nonclinical;201;6039;smartphone and wearable device
+Wang et al.;2018;['Depression'];['Sleep','Sociability','Device usage','Mobility','Physical activity','Mood'];['Association','Prediction'];student;nonclinical;83;126;smartphone and wearable device
+Morshed et al.;2019;['Mood'];['Physical activity','Sociability','Mobility,'Sleep'];['Prediction'];student and information workers;nonclinical;805;250;smartphone and wearable device
+Cai et al.;2018;['State affect'];['Mobility','Physical activity'];['Association','Prediction'];student;nonclinical;220;14;smartphone
+Boukhechba et al.;2018;['Depression','Social Anxiety'];['Mobility','Physical activity','Sociability'];['Association'];student;nonclinical;72;14;smartphone
+Barnett et al.;2018;['Schizophrenia'];['Mobility','Sociability'];['Detection','Prediction'];patients with Schizophrenia;clinical;17;90;smartphone
+Lane et al.;2014;['Well-being'];['Physical activity','Sociability','Sleep'];['Detection'];general public;nonclinical;27;19;smartphone
+Wang et al.;2016;['Schizophrenia'];['Physical activity','Sociability','Mobility','Device usage','Sleep','Environment'];['Association','Prediction'];patients with Schizophrenia;clinical;21;254;smartphone
+Servia-Rodríguez et al.;2017;['Mood'];['Physical activity','Sociability','Mobility','Environment'];['Association','Classification'];general public;nonclinical;18000;1080;smartphone
+Place et al.;2017;['Depression','Anxiety'];['Physical activity','Sociability','Mobility','Device usage','Vocal cues'];[Prediction];veteran status and general public;nonclinical;73;84;smartphone
+GU et al.;2017;['Well-being'];['Physical activity','Environment'];['Detection'];general public;nonclinical;30;not specified;smartphone and wearable device
+Wang et al.;2017;['Depression','Stress','Loneliness'];['Physical activity','Mobility','Sociability','Sleep'];['Association'];student;nonclinical;48;70;smartphone
+Doryab et al.;2019;['Loneliness'];['Physical activity','Mobility','Sociability','Sleep'];['Association','Classification'];student;nonclinical;10;112;smartphone and wearable device
+Spathis et al.;2019;['Mood'];['Physical activity','Environment'];['Classification'];general public;nonclinical;17000;1080;smartphone
+Wang et al.;2019;['Stress'];['Physical activity','Mobility','Sociability'];['Classification'];student;nonclinical;48;70;smartphone
+Sefidgar et al.;2019;['Well-being'];['Physical activity','Sleep','Sociability','Device usage','Mobility'];['Association'];student;nonclinical;209;180;smartphone and wearable device
+Jagesar et al.;2021;['Depression','Schizophrenia','Bipolar disorder'];['Mobility','Sociability'];['Detection'];individuals with depression, schizophrenia, and bipolar disorder;clinical;13;42;smartphone
+Fulford et al.;2020;['Schizophrenia'];['Mobility','Sociability'];['Association'];patients with Schizophreniaa;clinical;20;7;smartphone
+Gong et al.;2019;['Social Anxiety'];['Body movement','Sociability'];['Association'];student;nonclinical;52;14;smartphone
+Masud et al.;2020;['Depression'];['Physical activity','Mobility'];['Association','Classification'];student;nonclinical;33;77;smartphone
+Adler et al.;2020;['Schizophrenia'];['Physical activity','Mobility','Sociability','Device usage','Sleep'];['Prediction'];patients with Schizophreniaa;clinical;60;360;smartphone
+Sultana et al.;2020;['Emotional states'];['Physical activity','Environment','Mobility','Device usage'];['Classification'];student;nonclinical;60;9;smartphone and wearable device
+Huckins et al.;2020;['Depression','Anxiety'];['Sleep','Mobility','Device usage'];['Detection'];student;nonclinical;217;77;smartphone
+Wang et al.;2020;['Schizophrenia'];['Physical activity','Environment','Mobility','Sociability'];['Classification'];patients with Schizophreniaa;clinical;75;360;smartphone
+Levine et al.;2020;['Depression','Anxiety'];['Physical activity','Environment','Mobility','Sociability','Device usage'];['Classification'];general public;nonclinical;10;30;smartphone
